@@ -52,5 +52,7 @@ rsync -av --delete --checksum --exclude='.*' ~/ /tmp/backup/`
 5. `Настроил автоматический ежедневный запуск скрипта через cron.`
 
 ![2.1](/img/2.1.png)`
+
 ![2.2](/img/2.2.png)`
+
 ![2.3](/img/2.3.png)`
